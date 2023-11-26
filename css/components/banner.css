@@ -1,0 +1,30 @@
+.banner {
+  padding: 150px 25px;
+  background-size: cover;
+  background-position: center;
+}
+
+.container-banner {
+  width: 900px;
+  margin: auto;
+}
+
+.banner h1 {
+  color: white;
+}
+
+.banner p {
+  color: white;
+  opacity: 0.7;
+  font-size: 20px;
+}
+
+.btn-green {
+  background-color: rgb(30, 186, 30);
+  color: white;
+  width: 100px;
+  padding: 20px 20px;
+  display: inline-block;
+  text-align: center;
+  border-radius: 25px;
+}
